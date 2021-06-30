@@ -1,0 +1,16 @@
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\FirstGitHubHelloWorldApp.exe
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\FirstGitHubHelloWorldApp.deps.json
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\FirstGitHubHelloWorldApp.runtimeconfig.json
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\FirstGitHubHelloWorldApp.runtimeconfig.dev.json
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\FirstGitHubHelloWorldApp.dll
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\ref\FirstGitHubHelloWorldApp.dll
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\bin\Debug\net5.0\FirstGitHubHelloWorldApp.pdb
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.csprojAssemblyReference.cache
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.AssemblyInfo.cs
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.dll
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\ref\FirstGitHubHelloWorldApp.dll
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.pdb
+C:\Users\eakpobome\source\repos\AwakeningDev\FirstRepoGitHub\FirstGitHubHelloWorldApp\FirstGitHubHelloWorldApp\obj\Debug\net5.0\FirstGitHubHelloWorldApp.genruntimeconfig.cache
